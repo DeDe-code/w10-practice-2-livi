@@ -1,26 +1,86 @@
 [
-  {
-    "id": 1,
-    "name": "Pilsner Urquell",
-    "abv": 4.8,
-    "brewery": "Pilsnerovsky"
-  },
-  {
-    "id": 2,
-    "name": "Krusovice",
-    "abv": 4,
-    "brewery": "Karlove Phdnvsky"
-  },
-  {
-    "id": 3,
-    "name": "Kőbányai",
-    "abv": 5,
-    "brewery": "Kőbánya"
-  },
-  {
-    "id": 4,
-    "name": "Dreher",
-    "abv": 4.3,
-    "brewery": "Dreher Sőrfőzde"
-  }
+    {
+        "id": 1,
+        "name": "Pilsner Urquell",
+        "abv": 4.8,
+        "brewery": "Pilsnerovsky"
+    },
+    {
+        "id": 2,
+        "name": "Krusovice",
+        "abv": 4,
+        "brewery": "Karlove Phdnvsky"
+    },
+    {
+        "id": 3,
+        "name": "Kőbányai",
+        "abv": 5,
+        "brewery": "Kőbánya"
+    },
+    {
+        "id": 4,
+        "name": "Dreher",
+        "abv": 4.3,
+        "brewery": "Dreher Sőrfőzde"
+    },
+    {
+        "id": 5,
+        "name": "Heinekken",
+        "abv": "4.2",
+        "brewery": "Csikszereda"
+    },
+    {
+        "id": 6,
+        "name": "Ursus",
+        "abv": "5",
+        "brewery": "Kolozsvar"
+    },
+    {
+        "id": 7,
+        "name": "Ursus",
+        "abv": "5",
+        "brewery": "Kolozsvar"
+    },
+    {
+        "id": 8,
+        "name": "Ursus",
+        "abv": "5",
+        "brewery": "Kolozsvar"
+    },
+    {
+        "id": 9,
+        "name": "Heinekken",
+        "abv": "5",
+        "brewery": "Kolozsvar"
+    },
+    {
+        "id": 10,
+        "name": "sorika",
+        "abv": "4.2",
+        "brewery": "miskolc"
+    },
+    {
+        "id": 11,
+        "name": "sor",
+        "abv": "5",
+        "brewery": "keresztes"
+    },
+    {
+        "id": 12,
+        "name": "Heinekken",
+        "abv": "5",
+        "brewery": "keresztes"
+    },
+    {
+        "id": 13,
+        "name": "Heinekken",
+        "abv": "4.2",
+        "brewery": "miskolc"
+    },
+    {
+        "id": 14,
+        "name": "Heinekken",
+        "abv": "4.2",
+        "brewery": "keresztes"
+    }
 ]
